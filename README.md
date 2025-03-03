@@ -1,7 +1,4 @@
 Desenvolvedor 2
-Tempo restante
-
-00:32:28
 
 Pergunta 1 de 1
 Técnica:
